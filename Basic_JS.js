@@ -36,3 +36,17 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 // solution
 const mySctr = "FirstLine\n\t\\Secon/dLine\nThirdLine";
 
+
+// description
+/*Concatenating Strings with the Plus Equals Operator
+Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator.*/
+
+// solution
+let myStr = "This is the first sentence.";
+myStr += " This is the second sentence.";
+
+
+
+
+
+
