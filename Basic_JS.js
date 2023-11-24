@@ -46,6 +46,13 @@ let myStr = "This is the first sentence.";
 myStr += " This is the second sentence.";
 
 
+// description
+/*Set someAdjective to a string of at least 3 characters and append it to myStr using the += operator.*/
+
+// solution
+const someAdjective = "the best idea";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
 
 
 
