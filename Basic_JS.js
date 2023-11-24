@@ -16,3 +16,12 @@ const remainder = 11%3;
 a += 12;
 b += 9;
 c += 7;
+
+
+
+// description
+//Use backslashes to assign a string to the myStr variable so that if you were to print it to the console, you would see:
+//I am a "double quoted" string inside "double quotes".
+
+// solution
+const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
