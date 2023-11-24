@@ -25,3 +25,14 @@ c += 7;
 
 // solution
 const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+
+
+// description
+//FirstLine
+ //   \SecondLine
+//ThirdLine
+
+// solution
+const mySctr = "FirstLine\n\t\\Secon/dLine\nThirdLine";
+
