@@ -42,7 +42,7 @@ const mySctr = "FirstLine\n\t\\Secon/dLine\nThirdLine";
 Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator.*/
 
 // solution
-let myStr = "This is the first sentence.";
+let mySbtr = "This is the first sentence.";
 myStr += " This is the second sentence.";
 
 
@@ -51,7 +51,7 @@ myStr += " This is the second sentence.";
 
 // solution
 const someAdjective = "the best idea";
-let myStr = "Learning to code is ";
+let mykStr = "Learning to code is ";
 myStr += someAdjective;
 
 
