@@ -79,3 +79,12 @@ const myAdverb = "quickly";
 
 
 const wordBlanks = "My " + myNoun + " is "+ myAdjective + " and " + myVerb + " " + myAdverb + ". ";
+
+
+
+
+// description
+//Modify the new array myArray so that it contains both a string and a number (in that order).
+
+// solution
+const myArray = ["a big dog", 9];
