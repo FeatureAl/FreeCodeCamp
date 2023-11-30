@@ -65,3 +65,17 @@ myStr += someAdjective;
 // solution
 const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length - 1]
+
+
+
+// description
+//You will need to use the string concatenation operator + to build a new string, using the provided variables: myNoun, myAdjective, myVerb, and myAdverb. You will then assign the formed string to the wordBlanks variable. You should not change the words assigned to the variables.
+
+// solution
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly"; 
+
+
+const wordBlanks = "My " + myNoun + " is "+ myAdjective + " and " + myVerb + " " + myAdverb + ". ";
