@@ -104,3 +104,10 @@ const myArray = [
   const myData = myArray[2][1];
 
 
+
+  // description
+//Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+
+// solution
+const myList = [["squash", 7], ["turkey", 2], ["cucumbers", 5], ["banana", 6], ["Sweet things", 12]];
+
